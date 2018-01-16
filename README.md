@@ -1,4 +1,5 @@
-# STEPBible-Data  (Test repository for the real one at tyndale/STEPBible-Data)
+# STEPBible-Data  
+# (Test repository for the real one at tyndale/STEPBible-Data)
 Data created for STEPBible.org, licenced by Tyndale House Cambridge (CC BY-NC-ND 4.0) 
 
 This public licence allows you to:
