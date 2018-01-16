@@ -1,4 +1,4 @@
-﻿Proper Nouns in the ESV (+KJV, NIV) with references separated by individual people and locations
+﻿All Proper Nouns in the ESV (+KJV, NIV) with references separated by individual people and locations
 ==============================================================
 
 Records are separated by "$" and fields by tab or new line
